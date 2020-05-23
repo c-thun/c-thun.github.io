@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Hey, nice to see ya!
 
-You can use the [editor on GitHub](https://github.com/c-thun/c-thun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+At the moment, I don't know what exactly to write here so I'll just let this be a landing page for some projects I have made and like
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### XKCD_Alt : An Alternative XKCD Experience
 
-### Markdown
+The original [XKCD Website](https://xkcd.com/), while amazing on desktops, is not really mobile friendly. That gave me the idea to provide a substantially better mobile experience for XKCD Comics with my newly learnt web development skills. The result is a Progressive Web App that you can install on your devices with extra goodies like : Store your favourite comics in a convenient likes page, colourful icons, mobile gestures and a fully responsive design. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Visit XKCD : Alt here](https://c-thun.github.io/XKCD_Alt/)
 
-```markdown
-Syntax highlighted code block
+### 10ify : A Theming Script for Linux users
 
-# Header 1
-## Header 2
-### Header 3
+A lot of people love the Windows workflow but with the privacy of Linux. For all such people, I created a script that sets most settings (including changes to animations) to give you a proper Windows 10 like experience. The project sees regular updates to support the latest versions of the GNOME extensions used. If you don't like the changes, an uninstaller is also provided for you to quikcly revert changes. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-thun/c-thun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Visit 10ify here](https://github.com/c-thun/10ify)
