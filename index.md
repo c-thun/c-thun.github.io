@@ -19,7 +19,7 @@ A lot of people love the Windows workflow but with the privacy of Linux. For all
 
 ### ThreadCleanerBot : A Telegram Bot to rid your group chats of unnecessary status messages
 
-With large Telegram groups, there is always a problem of having too many status update messages (New user added, admin changed, etc). This open-source bot, once added to a group as an admin, will auto-clean all such messages almost instantly to prevent your group chats from being cluttered. Note that this code must be run on a server or a device that is perpetually online for it to work properly (as should be obvious0
+With large Telegram groups, there is always a problem of having too many status update messages (New user added, admin changed, etc). This open-source bot, once added to a group as an admin, will auto-clean all such messages almost instantly to prevent your group chats from being cluttered. Note that this code must be run on a server or a device that is perpetually online for it to work properly (as should be obvious)
 
 [Visit ThreadCleanerBot here](https://github.com/c-thun/ThreadCleanerBot)
 
