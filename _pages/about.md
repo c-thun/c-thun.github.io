@@ -3,7 +3,6 @@ layout: page
 title: About Me
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 

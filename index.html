@@ -3,22 +3,22 @@ layout: default
 title: Home
 ---
 
+<h3>My Featured Projects are shown below. Find out more about me <a href="/about">here</a>. If you feel like, it would be amazing if you had a look at my <a href="/blog">blog posts</a>.</h3>
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
-    {% for post in paginator.posts %}
-    {% for category in post.categories %}
-    {% if category == 'Project' %}
-        {% include postbox.html %}
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
-</div>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+  {% assign pages_list = site.posts %}
+  {% for post in pages_list %}
+  {% if post.title != null %}
+  {% if group == null or group == post.group %}
+  {% for category in post.categories %}
+  {% if category == 'Project' %}
+  {% include postbox.html %}
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+  {% endif %}
+  {% assign pages_list = nil %}
+  {% assign group = nil %}
+  {% endfor %}
 </div>
