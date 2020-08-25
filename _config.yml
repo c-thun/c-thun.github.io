@@ -1,13 +1,12 @@
 # Site
-name: "Aakash"
-title: "Aakash"
-description: "Web Developer | Electrical Engineer | Deep Learning Enthusiast | Multi-Lingual"
+name: "Aakash's Homepage"
+title: "Aakash's Homepage"
+description: "Web Developer | Electrical Engineer | Deep Learning Enthusiast | Multi Lingual"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
 include: ["_pages"]
 permalink: /blog/:title/
-email: wowthemesnet@gmail.com
 
 # Authors
 authors:
@@ -15,8 +14,7 @@ authors:
     name: Aakash
     display_name: Aakash
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://prepsera.wordpress.com/
+    web: /about
     description: "Blogger by day, coder by night. Perfectionist with an insatiable thirst for knowledge."
 
 # Plugins
