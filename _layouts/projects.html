@@ -1,17 +1,17 @@
 ---
-title: "Blog"
+title: "Projects"
 layout: default
-permalink: "/blog.html"
+permalink: "/projects.html"
 ---
 
-<h1>Blog</h1>
+<h1>Projects</h1>
 <div class="blog-grid-container">
 {% assign pages_list = site.posts %}
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
 {% for category in post.categories %}
-{% if category == 'Blog' %}
+{% if category == 'Project' %}
 {% include postbox.html %}
 {% endif %}
 {% endfor %}
