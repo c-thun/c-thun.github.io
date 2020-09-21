@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Choosing a Linux Distribution (Distro)"
+title:  "An Introduction to Linux Distros"
 author: aakash
 categories: [ Blog ]
 tags: [ Linux ]

@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "A Fairly Complete Guide to Installing Linux (Distros)"
+title:  "A Fairly Complete Guide to Installing Linux Distros"
 author: aakash
 categories: [ Blog ]
 tags: [ Linux ]
 image: assets/images/linux_install.png
 ---
 
-95% of all Linux installing and dual boot guides on the internet are moot. They are either outdated or copies of the same article and most of them do not provide any rationale behind why we do the steps we do. There's a reason why Arch users are so crazy about the Wiki : it is one of the most comprehensive and detailed guides ever written. However, it is certainly too complicated for a new or inexperienced user. This post is an attempt from my side to create a tutorial for installing most general Linux distros (that come with a graphical installer) while providing slightly more detail than typical tutorials. 
+95% of all Linux installing and dual boot guides on the internet are moot. They are either outdated or copies of the same article and most of them do not provide any rationale behind why we do the steps we do. There's a reason why Arch users are so crazy about the Wiki : it is one of the most comprehensive and detailed guides ever written. However, it is certainly too complicated for a new or inexperienced user. This post is an attempt from my side to create a tutorial for installing most general Linux distros that come with a graphical installer while providing slightly more detail than typical tutorials. 
+
+*While I claim that this guide is complete, I recognise that I have not discussed installing from the command line. This is because installing from the command line tends to be a fairly complicated deal unless you are experienced with linux. In addition, apart from distributions like Arch or minimal installers, you would be hard pressed to find non-graphical installers. In addition, a lot of the points mentioned below by me apply even to the non-graphical installers with the simple difference that instead of selection via clicks, you'll need to do it via commands. The guide still applies to you and might be really useful even in this case.*  
 
 
 #### Pre-Requisites 
