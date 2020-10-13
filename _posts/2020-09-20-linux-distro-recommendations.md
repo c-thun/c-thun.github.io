@@ -40,10 +40,10 @@ So, where do I stand on distributions? Well, I’ve divided major distributions 
     * System76, the creator of PopOS, also applies battery life tweaks similar to Fedora. This causes PopOS to have **amazing battery life out of the box**, equaling Fedora and Windows. 
     * PopOS ships with a custom software app called Pop Shop which also has Flatpak integration out of the box. In addition, it allows **easy one click installation of NVIDIA drivers**.
     * Ships with an amazing tiling extension out of the box which, frankly speaking, is very well made for basic users and will be appreciated by people who use wide screens
-3. **Manjaro *(KDE/XFCE)* -** *Score : 9/10*
+3. **Manjaro *(KDE/GNOME/XFCE)* -** *Score : 9/10*
     * Their **graphical package management utility** is one of the most polished and functional utilities I have ever used. It is extremely powerful for installing and updating apps, enabling the Arch User Repository (AUR), enabling Flatpak/Snap support, and configuring updates.
     * Ships with a **built in Kernel Manager** which helps manage, update and install kernel versions with a very nice graphical utility.
-    * They spend a lot of time configuring the looks and shortcuts of their KDE and XFCE versions, both of which are officially supported, making them feel like **extremely polished and premium** experiences.
+    * They spend a lot of time configuring the looks and shortcuts of their KDE, GNOME and XFCE versions, all of which are officially supported, making them feel like **extremely polished and premium** experiences. In my personal experience with Linux distros, I would rate Manjaro's KDE as the best KDE experience out ouf the box and the third best GNOME experience *(after Fedora and PopOS as first and second, respectively)* out of the box.
     * Manjaro is based on Arch and so has **amazing software availability** thanks to the Official Repositories and AUR. 
     * While a rolling release distribution, Manjaro benefits from testing of updates before they actually release. Thanks to this, while Manjaro may lag behind Arch *(when it comes to new system updates)* for 1-2 weeks but has quite **stable updates with significantly lower risks of bugs**.
     * It is extremely easy to install Wine and run Windows games. 
