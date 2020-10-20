@@ -11,6 +11,6 @@ While browsing through YouTube, I came across this video discussing how Monopoly
 
 I ran the simulation code for a million games of a typical length and using these, obtained the probability distribution of the different properties in the game and the value for money of each property group. While I will not give all the details in this post *(you'll have to see the repository's README for that)*, I will leave you with this interesting graph that I obtained which shows the value for money of different property groups. 
 
-![](assets/images/Value_for_Money.png)
+![](../assets/images/Value_for_Money.png)
 
 For a detailed analysis with more graphs and methodology/formulation used to obtain these results, [check out the repository here](https://github.com/c-thun/Monopoly-Simulation/)
