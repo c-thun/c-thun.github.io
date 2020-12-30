@@ -1,7 +1,7 @@
 # Site
 name: "Aakash's Homepage"
 title: "Aakash's Homepage"
-description: "Web Developer | Electrical Engineer | Deep Learner"
+description: "Web Developer | Electrical Engineer | Deep Learning"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl:
@@ -13,7 +13,7 @@ authors:
   aakash:
     name: Aakash
     display_name: Aakash
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 061fce10b91cdcf60f71f59932038da8
     web: /about
     description: "Blogger by day, coder by night. Perfectionist with an insatiable thirst for knowledge."
 
